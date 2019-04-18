@@ -1,3 +1,4 @@
+#python+selenium自动化练习01：断言打开页面并进行搜索
 # coding=utf-8
 import time
 from selenium import webdriver
